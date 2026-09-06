@@ -1,3 +1,5 @@
+# Copyright (C) 2026 Lixiod Technologies
+
 import asyncio
 import discord
 from discord.ext import commands
